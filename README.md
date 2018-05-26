@@ -1,2 +1,3 @@
 # politec
 Some example codes to inspire my students.
+Here we have some news about ...
